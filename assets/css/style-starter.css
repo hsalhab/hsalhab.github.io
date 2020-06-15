@@ -11041,6 +11041,9 @@ body:after {
   border-bottom: solid 1px rgba(250, 250, 250, 0.32);
   margin-bottom: 30px;
   padding-bottom: 10px; }
+.services-12 .experience-top-placeholder {
+  margin-bottom: 30px;
+  padding-bottom: 10px; }
 
 @media (max-width: 992px) {
   .services-12 .grid-column-2 {
